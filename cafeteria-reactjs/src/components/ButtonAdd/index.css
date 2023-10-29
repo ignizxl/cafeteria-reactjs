@@ -1,0 +1,20 @@
+.container-button {
+    display: flex;
+    justify-content: right;
+}
+
+.button-add {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #b6b3b3;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.button-add:hover {
+    background-color: #808080;
+}
